@@ -1,0 +1,119 @@
+body{
+    background-color: black;
+    font-family: twitterchirp;
+}
+#bg{
+    
+}
+#text{
+    color: white;
+    font-size: 40px;
+    height: 75px;
+    width: 80px;
+    
+    display: flex;
+    position: absolute;
+    top: 10rem;
+    font-size: 35px;
+    font-weight: bold;
+    left: 80rem;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+}
+#desc{
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 43rem;
+    font-size: 14px;
+    border-color: black;
+    left: 70rem;
+}
+#desctwo{
+   color: white;
+    
+    position: relative;
+    top: 55rem;
+    text-decoration: none;
+    word-spacing: 6px;
+    
+}
+#long{
+    padding-left: 10px;
+    padding-right: 5px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+}
+#bg{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 15rem;
+    left: 10rem;
+}
+#zero{
+    padding-left: 10px;
+    padding-right: 5px;
+    color: rgb(0, 76, 255);
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+    
+}
+#three{
+    display: flex;
+    position: absolute;
+    top: 33rem;
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    border-color: black;
+    left: 80rem;
+    gap: 10px;
+    justify-content: center;
+}
+
+#two{
+    font-size: 15px;
+    display: flex;
+    position: absolute;
+    top: 30rem;
+    gap: 10px;
+    border-color: white;
+    background-color: white;
+   justify-content: center;
+    color: black;
+    left: 80rem;
+}
+#one{
+
+    display: flex;
+    position: absolute;
+    align-self: right;
+    top: 40rem;
+    border-color: blue;
+    background-color: blue;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    left: 80rem;
+}
+button{
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    border-radius: 20px;
+    padding: 10px;
+    height: 40px;
+    width: 250px;
+    
+}
+#one{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    
+}
